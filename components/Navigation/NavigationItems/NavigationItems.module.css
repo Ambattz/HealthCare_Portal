@@ -1,0 +1,27 @@
+.NavigationItems{
+    margin: 0px;
+    padding: 0;
+    top: 10px;
+    list-style: none;
+    display: flex;
+    flex-flow: column;
+    margin-left: 10px;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+
+ 
+}
+
+.Blood{
+vertical-align: middle;
+top: 50px;
+
+}
+@media(min-width: 1460px){
+    .NavigationItems{
+        flex-flow: row;
+        width: 100%;
+
+    }
+}

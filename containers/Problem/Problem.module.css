@@ -1,0 +1,16 @@
+.Problem{
+    background-color: whitesmoke;
+    width: auto;
+    height: auto;
+    border: 5px solid black;
+    border-radius: 20px;
+    
+    padding: 50px;
+    margin: 20px;
+}
+
+.Pro{
+    text-align: center;
+    position: relative;
+    color:white;
+}

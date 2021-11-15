@@ -1,0 +1,29 @@
+.SideDrawer{
+    position:fixed;
+    width: 200px;
+    max-width: 80%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    border: 3px solid black;
+    border-radius: 0px 35px 35px 0px;
+    z-index: 200;
+    background-image: url('../../../assets/backgrnd2.jpg');
+    padding: 32px 16px;
+    box-sizing: border-box;
+    transition: transform 0.3s ease-out;
+}
+
+@media(min-width :1460px){
+    .SideDrawer{
+        display: none;
+    }
+}
+
+.Open{
+    transform: translateX(0);
+}
+
+.Close{
+    transform: translateX(-100%);
+}
