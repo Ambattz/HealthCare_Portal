@@ -12,57 +12,14 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-### `npm test`
+# HealthCare_Portal
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Presently there are no efficient interfacing system for the public to know about the various facilities in our Health department. The Health department does not have an efficient system to provide the information to the public about various facilities such as the availability of blood in blood banks, availability of specialists at hospitals, availability of medicines in pharmacies, camps and seminars on various health related topics , etc.
 
-### `npm run build`
+![image](https://user-images.githubusercontent.com/69767685/141892421-ccf64744-70dd-428e-851a-28a2e5a6ce2b.png)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Solution
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+A user friendly webpage connecting the public with the department for health. Project 06 resolves the need of direct relevant information to public about various facilities in health department as well as an efficient online appointment booking system. It is an informative website for the user & consists of all the updates and services taking place in the respective health fields encapsulated within that single webpage.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+In our webpage we have made sure that a user with the least technical support is able to access our website. Project 06 resolves the need of direct relevant information to public about various facilities in health department as well as an efficient online appointment booking system. It is an informative website for the user & consists of all the updates and services taking place in the respective health fields encapsulated within that single webpage.
